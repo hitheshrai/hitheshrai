@@ -1,6 +1,6 @@
 # Hithesh Rai Purushothama
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=000000&width=650&lines=Research+at+the+intersection+of+materials+physics+and+machine+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1500&color=000000&width=400&lines=Energy+materials+and+AI)](https://git.io/typing-svg)
 
 MS AI Engineering (Materials Science) · Arizona State University
 
