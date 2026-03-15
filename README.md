@@ -1,21 +1,25 @@
 # Hithesh Rai Purushothama
 
-Graduate student at Arizona State University. Working on GPU inference, deep learning, and competition-grade computer vision.
+MS AI Engineering (Materials Science) · Arizona State University
+
+Research at the intersection of materials physics and machine learning — EIS-based property prediction, perovskite thin-film devices, and physics-informed modeling for energy systems.
 
 ---
 
-**Research & Work**
-- **Next Lab** — GPU inference pipelines on DGX hardware (TensorRT-LLM, model optimization) · Management Intern
-- **Rolston Lab** — Battery degradation modeling, EIS analysis
+**Research**
+- **Next Lab, ASU** — AI/edge systems, LLM pipelines, Jetson benchmarking · Management Intern
+- **Rolston Lab, ASU** — EIS modeling, battery/PV interfacial characterization, multitask learning
+- **EPFL** — Perovskite single-junction devices (19% efficiency), ALD, blade coating
+- **Helmholtz Zentrum Berlin** — PDF analysis, morphotropic phase transitions in ferroelectrics
+- **Purdue (Dou Group)** — Halide perovskite stability, additive engineering
 
 **Interests**
-- Deep learning inference — TensorRT-LLM, quantization, throughput optimization
-- Computer vision — few-shot learning, defect detection
-- Electrochemical systems — battery EIS, degradation prediction
-- Solar energy forecasting
+- Data-driven materials modeling — EIS, XRD, thin-film characterization
+- Physics-informed ML, inverse design, self-driving labs
+- Edge inference — TensorRT, ONNX, INT8 quantization
 
 ---
 
 **Links**
 
-[hitheshrai.github.io/Hithesh](https://hitheshrai.github.io/Hithesh/)
+[hitheshrai.github.io/Hithesh](https://hitheshrai.github.io/Hithesh/) · [linkedin.com/in/hithesh-rai-p](https://linkedin.com/in/hithesh-rai-p)
