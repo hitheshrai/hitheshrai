@@ -5,9 +5,8 @@ Graduate student at Arizona State University. Working on GPU inference, deep lea
 ---
 
 **Research & Work**
-- **Next Lab** — GPU inference pipelines on DGX hardware (TensorRT-LLM, model optimization)
+- **Next Lab** — GPU inference pipelines on DGX hardware (TensorRT-LLM, model optimization) · Management Intern
 - **Rolston Lab** — Battery degradation modeling, EIS analysis
-- Management Intern
 
 **Interests**
 - Deep learning inference — TensorRT-LLM, quantization, throughput optimization
