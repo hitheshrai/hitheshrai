@@ -18,8 +18,7 @@ Research at the intersection of materials physics and machine learning — EIS-b
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hitheshrai&show_icons=true&theme=default&hide_border=true&count_private=true&hide=stars)
----
+![GitHub stats](https://YOUR-VERCEL-PROJECT.vercel.app/api?username=hitheshrai&show_icons=true&hide_border=true)---
 
 **Links**
 
