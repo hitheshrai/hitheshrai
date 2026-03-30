@@ -16,10 +16,6 @@ Research at the intersection of materials physics and machine learning — EIS-b
 - Physics-informed ML, inverse design, self-driving labs
 - Edge inference — TensorRT, ONNX, INT8 quantization
 
----
-
-![GitHub stats](https://YOUR-VERCEL-PROJECT.vercel.app/api?username=hitheshrai&show_icons=true&hide_border=true)---
-
 **Links**
 
 [hitheshrai.github.io/Hithesh](https://hitheshrai.github.io/Hithesh/) · [linkedin.com/in/hithesh-rai-p](https://linkedin.com/in/hithesh-rai-p)
