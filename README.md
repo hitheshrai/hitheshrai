@@ -9,8 +9,8 @@ Research at the intersection of materials physics and machine learning — EIS-b
 ---
 
 **Research**
-- **Next Lab, ASU** — AI/edge systems, LLM pipelines, Jetson benchmarking · Management Intern
-- **Rolston Lab, ASU** — EIS modeling, battery/PV interfacial characterization, multitask learning
+- **Next Lab, ASU** — AI/edge systems · Management Intern
+- **Rolston Lab, ASU** — Battery/PV interfacial characterization, multitask learning
 **Interests**
 - Data-driven materials modeling — EIS, XRD, thin-film characterization
 - Physics-informed ML, inverse design, self-driving labs
