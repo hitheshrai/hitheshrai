@@ -10,12 +10,10 @@ Research at the intersection of materials physics and machine learning — EIS-b
 
 **Research**
 - **Next Lab, ASU** — AI/edge systems · Management Intern
-- **Rolston Lab, ASU** — Battery/PV interfacial characterization, multitask learning
+- **Rolston Lab, ASU** — Energy Materials
 **Interests**
-- Data-driven materials modeling — EIS, XRD, thin-film characterization
-- Physics-informed ML, inverse design, self-driving labs
-- Edge inference — TensorRT, ONNX, INT8 quantization
-
+- Data-driven materials modeling 
+- Physics-informed ML, self-driving labs
 **Links**
 
 [hitheshrai.github.io/Hithesh](https://hitheshrai.github.io/Hithesh/) · [linkedin.com/in/hithesh-rai-p](https://linkedin.com/in/hithesh-rai-p)
